@@ -10,8 +10,8 @@ The repo aimed to show how a task can be solved with Genetic Algorithms.
 **Problem**: find a solution of a linear Diophantine equation.
 ```python
 The equation: 1027 * x + 712 * y = 1
-D(x) = [-1 000; 1 000]
-D(y) = [-500; 1 500]
+D(x) = [-1 500; 1 500]
+D(y) = [-1 500; 1 500]
 ```
 Sure thing, that the problem has the [analytical solution](http://mathworld.wolfram.com/DiophantineEquation.html).
 ```python
