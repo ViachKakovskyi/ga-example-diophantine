@@ -1,8 +1,8 @@
 # ga-example-diophantine
 The example of usage of [Genetic Algorithms and](https://en.wikipedia.org/wiki/Genetic_algorithm) and [DEAP](https://github.com/deap/deap) for Kyiv.Py # 16.
 
- * [Slides](COMING SOON)
- * [Kyiv.py #16 on Meetup.com](www.meetup.com/uapycon/events/225279794/)
+ * [Slides](http://www.slideshare.net/mariczhuck/kyivpy16-how-to-easily-find-the-optimal-solution-without-exhaustive-search-using-genetic-algorithms)
+ * [Kyiv.py #16 on Meetup.com](https://www.meetup.com/uapycon/events/225279794/)
 
 The repo aimed to show how a task can be solved with Genetic Algorithms. 
 
